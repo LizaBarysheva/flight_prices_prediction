@@ -38,10 +38,10 @@ Once the Docker image is built, you can run the Streamlit app in a Docker contai
 docker run -p 8501:8501 flight-price-prediction-app
 ```
 
-### Access the App
+## Access the App
 
 Open your web browser and visit http://localhost:8501 to access the Airline Flight Data EDA and Price Prediction App.
 
-### Usage
+## Usage
 
 Follow the on-screen instructions to filter data, explore visualizations, and make predictions on flight prices using the app.
